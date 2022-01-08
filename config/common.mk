@@ -204,6 +204,7 @@ PRODUCT_PACKAGE_OVERLAYS += \
     vendor/standart/overlay/common
 
 PRODUCT_PACKAGES += \
+    AndroidBlackThemeOverlay \
     CustomFontPixelLauncherOverlay \
     DocumentsUIOverlay \
     NetworkStackOverlay \
